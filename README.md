@@ -14,6 +14,6 @@ git clone https://github.com/jayantsinha1001/SauceLab.git
 # clear all the IDE CACHE
 # Run the feature file by clicking on play button
 # Also run the project by running the testrunner file
-# After successfull run ,  report will be generating with all the steps logd
+# After successfull run ,  report will be generating with all the steps loged in Report folder
 # Better to use intellij IDE
 
